@@ -1,0 +1,38 @@
+Hello! - - - You can text to me with your phone - - - I see a visitor in red, how are you ?
+hello
+Thank you! I see five visitors. What is your name, visitor one in red ?
+tom
+Hi tom. - - - . visitor two in green ?
+sue
+Welcome sue. - - - . visitor three in blue ?
+anne
+Hello anne. - - - . visitor four in orange ?
+mark
+Its my pleasure mark. - - - . visitor five in yellow ?
+tom
+Hello tom. - - - 
+yes
+Where do you lihve, tom ? - - - Do you lihve on stage like me - - - or do you lihve in a house, tom ?
+yes
+house of course! - - - lets see. 
+yes
+does this look like your home tom ?
+tom
+hmm - - I dont understand tom , can you please say something different
+yes
+what is your favorite color sue ?
+red
+1.0 0.0 0.0
+what is your favorite color sue ?
+yes
+Hey tom, - - - I am thirsty , - - - you are my pilot now , - - - what shall we do ? search for water or fix the plane, tom ?
+search for water
+Alright, - - - water it is. - - - but how can we take care of the plane, sue ?
+leave the plane
+Yes thank you. - - - I am very thirsty. - - - Ready to go find water now sue ?
+yes
+You have heard what the pilot said. - - - tom - sue - anne - mark - tom - - - shake your phones - - - push water to the center of the stage - - - 
+yes
+Monotohny - Kills. - - Sometimes it takes a little color in life, - - - a few flowers, - - - love, - lights, - - one magic moment - - - Hey, what about some holidays ? mark - - - lets say, - I gave you one week of vacation after the pandemic, - - where would you go ?
+italy
+You like it warm. - - - I see, you like culture, - - - the sea - - - Do you like good food too ?
