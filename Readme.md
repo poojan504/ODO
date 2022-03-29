@@ -74,3 +74,7 @@ Communication between chatbot and Max system happens with using several tags, ea
 |/haiku "haiku"| Generates a random haiku poem to the user|
 |/emotions | Tag with which chatbot sends user's emotion to Max|  
 |/jump | Perform jumps in the story - **Need to fix bugs**|
+
+Changes made into the phase 2
+
+We have used the MiniXception model and replaced it with the custom depthwise CNN to increase the performance of the  Chatbot for the phase2 implementation please find the odo_camera_2.py and utilits 
